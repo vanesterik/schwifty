@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"schwifty/ui"
-	"schwifty/utils"
+	"github.com/vanesterik/schwifty/ui"
+	"github.com/vanesterik/schwifty/utils"
 
 	"charm.land/bubbles/v2/key"
 	"charm.land/bubbles/v2/list"

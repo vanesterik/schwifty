@@ -1,4 +1,4 @@
-module schwifty
+module github.com/vanesterik/schwifty
 
 go 1.26.4
 
