@@ -12,7 +12,7 @@ There are probably other tools that do the same, but I wanted to create a tool i
 
 ## Name
 
-The name "SCHWIFTY" is a playful nod to the popular phrase from the animated series *Rick and Morty*, where "Get Schwifty" is a memorable line. In this context, "SCHWIFTY" stands for **S**earch **C**ommand **H**istory **W**ith **I**ntelligent **F**iltering **T**ools for **Y**ou, emphasizing the application's purpose of providing an intelligent and efficient way to search through command history.
+The name **SCHWIFTY** is a playful nod to the popular phrase from the animated series *Rick and Morty*, where *Get Schwifty* is a memorable line. In this context, **SCHWIFTY** stands for **S**earch **C**ommand **H**istory **W**ith **I**ntelligent **F**iltering **T**ools for **Y**ou, emphasizing the application's purpose of providing an intelligent and efficient way to search through command history.
 
 ## Installation
 
