@@ -1,0 +1,24 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  build:
+    desc: Build project
+    cmds:
+      - go build ./...
+
+  format:
+    desc: Format code
+    cmds:
+      - go fmt ./...
+
+  lint:
+    desc: Run lint
+    cmds:
+      - golangci-lint run
+
+  test:
+    desc: Run tests
+    cmds:
+      - go test ./... {{.CLI_ARGS}}
